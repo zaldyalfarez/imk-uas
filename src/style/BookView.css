@@ -1,0 +1,41 @@
+.bookview-bg {
+  background: rgb(26, 30, 32);
+}
+
+.bookview-container {
+  padding-top: 21px;
+  display: flex;
+  width: 98vw;
+  height: 100vh;
+}
+
+.bookview-form {
+  max-width: 1200px;
+  max-height: 650px;
+  padding: 30px;
+  border-radius: 8px;
+  background-color: rgb(33, 37, 41);
+}
+
+.bookview-img {
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 400px;
+  border-radius: 10px;
+  margin-top: 10%;
+}
+
+.bookview-title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.bookview-text {
+  text-align: justify;
+  color: white;
+}
+
+.bookview-mid {
+  margin-right: 10%;
+}

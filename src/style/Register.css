@@ -1,0 +1,17 @@
+.registerbg {
+  background: rgb(26, 30, 32);
+}
+
+.register-container {
+  padding-bottom: 3%;
+  display: flex;
+  width: 98vw;
+  height: 100vh;
+}
+
+.register-form {
+  max-width: 360px;
+  padding: 30px;
+  border-radius: 8px;
+  background-color: rgb(33, 37, 41);
+}

@@ -1,0 +1,13 @@
+.card-img-top {
+  width: 100%;
+  height: 24vw;
+  object-fit: cover;
+}
+
+.card-text-book {
+  font-size: small;
+}
+
+.book-title {
+  text-decoration: none;
+}

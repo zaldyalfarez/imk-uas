@@ -1,0 +1,16 @@
+.filter {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+.offheader {
+  background-color: rgb(33, 37, 41);
+}
+
+.offbody {
+  background-color: rgb(33, 37, 41);
+}
+
+.filter-select {
+  height: 40px;
+}
