@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imk-uas/static/css/main.205a7d05.css",
+    "main.js": "/imk-uas/static/js/main.55116b0d.js",
+    "index.html": "/imk-uas/index.html",
+    "main.205a7d05.css.map": "/imk-uas/static/css/main.205a7d05.css.map",
+    "main.55116b0d.js.map": "/imk-uas/static/js/main.55116b0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.205a7d05.css",
+    "static/js/main.55116b0d.js"
+  ]
+}
