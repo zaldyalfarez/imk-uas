@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/imk-uas/static/css/main.205a7d05.css",
-    "main.js": "/imk-uas/static/js/main.55116b0d.js",
+    "main.js": "/imk-uas/static/js/main.23388f03.js",
     "index.html": "/imk-uas/index.html",
     "main.205a7d05.css.map": "/imk-uas/static/css/main.205a7d05.css.map",
-    "main.55116b0d.js.map": "/imk-uas/static/js/main.55116b0d.js.map"
+    "main.23388f03.js.map": "/imk-uas/static/js/main.23388f03.js.map"
   },
   "entrypoints": [
     "static/css/main.205a7d05.css",
-    "static/js/main.55116b0d.js"
+    "static/js/main.23388f03.js"
   ]
 }
